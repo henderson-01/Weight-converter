@@ -61,3 +61,6 @@ Thank you for using the weight converter. Goodbye... 👋
 
 ---
 *Created as part of my journey to mastering Python. Feel free to explore my other repositories!*
+___
+## ⚠️ Disclaimer 
+This is provided "as is" without warranty of any kind. I am not responsible for any damage, data loss, or issues caused by the use of this Program/Information. **Use it at your own risk.** 

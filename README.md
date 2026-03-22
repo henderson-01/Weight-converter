@@ -21,7 +21,7 @@ sudo apt install python3-venv
 ```
 
 ### 2. Create the Virtual Environment
-Open project folder **Weight converter** in terminal and run:
+Open the **Weight Converter** project folder, right-click on folder then Open with Terminal, and run:
 ```bash
 python3 -m venv .venv
 ```

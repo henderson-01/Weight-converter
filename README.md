@@ -37,7 +37,8 @@ python3 -m venv .venv
 source .venv/bin/activate
 ```
 
-*Note: You should now see `(.venv)` at the start of your terminal prompt.*
+> [!NOTE]
+> You should now see `(.venv)` at the start of your terminal prompt.
 
 ### 4. Run the Script
 
@@ -78,4 +79,5 @@ Thank you for using the weight converter. Goodbye... 👋
 
 ## ⚠️ Disclaimer
 
-This is provided "as is" without warranty of any kind. I am not responsible for any damage, data loss, or issues caused by the use of this Program/Information. **Use it at your own risk.**
+> [!CAUTION]
+> This is provided "as is" without warranty of any kind. I am not responsible for any damage, data loss, or issues caused by the use of this Program/Information. **Use it at your own risk.**
